@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "G7NS4FDL4C.com.hell-o-baby.DailySnapshot",
+                "paths": [
+		    "*",
+ 		    "/story_id/123"
+                ]
+            }
+        ]
+    }
+}
