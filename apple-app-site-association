@@ -4,9 +4,7 @@
         "details": [
             {
                 "appID": "G7NS4FDL4C.com.hell-o-baby.BabySnap",
-                "paths": [
-		    "*"
-                ]
+                "paths": [ "/magic_link*" ]
             }
         ]
     }
