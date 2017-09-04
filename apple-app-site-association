@@ -5,8 +5,7 @@
             {
                 "appID": "G7NS4FDL4C.com.hell-o-baby.BabySnap",
                 "paths": [
-		    "*",
- 		    "/story_id/123"
+		    "*"
                 ]
             }
         ]
