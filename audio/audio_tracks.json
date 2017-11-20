@@ -1,20 +1,20 @@
 [
     {"id": "1",
-      "author_name": "Playful Orchestra",
-      "track_name": "The Christmas Elves",
+      "author_name": "The Christmas Elves",
+      "track_name": "Francesco D'Andrea",
       "track_url": "https://bobile.github.io/179_short_the-christmas-elves-playful-orchestra_0019.mp3",
-      "artwork_url": "https://s-media-cache-ak0.pinimg.com/originals/d6/6f/83/d66f8333280ece46a06981791dba2213.jpg"
+      "artwork_url": "https://bobile.github.io/music-01.png"
     },
     {"id": "2",
-      "author_name": "Orchestral",
-      "track_name": "We Wish You A Merry Christmas",
+      "author_name": "We Wish You A Merry Christmas",
+      "track_name": "Martin Riopel",
       "track_url": "https://bobile.github.io/157_short_we-wish-you-a-merry-christmas-4_0019.mp3",
-      "artwork_url": "http://civicegypt.org/wp-content/uploads/2011/12/%D9%83%D8%B1%D9%8A%D8%B3%D9%85%D8%A7%D8%B3.png"
+      "artwork_url": "https://bobile.github.io/music-02.png"
     },
     {"id": "3",
-      "author_name": "Reggae",
-      "track_name": "Jingle Bells",
+      "author_name": "Jingle Bells",
+      "track_name": "Martin Riopel",
       "track_url": "https://bobile.github.io/157_short_jingle-bells-reggae_0019.mp3",
-      "artwork_url": "https://images.shazam.com/coverart/t54620299-b335252518_s400.jpg"
+      "artwork_url": "https://bobile.github.io/music-03.png"
     }
   ]
