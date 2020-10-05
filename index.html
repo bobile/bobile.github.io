@@ -15,9 +15,7 @@
 	button.addEventListener('click', function(e) {
 		e.preventDefault();
 
-		window.location.replace('tcstravel://action/signal?message=posform%3Atinkoff%2FSUCCESS');
-
-		setTimeout(() => window.location.replace('tcstravel://action/close'), 500);
+		window.location.replace('tcstravel://action/signalAndClose?message=posform%3Atinkoff%2FSUCCESS');
 	});
 </script>
 </html>
